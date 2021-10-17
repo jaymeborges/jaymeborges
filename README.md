@@ -7,6 +7,7 @@
 ##
 
 <div align="center">
+  <div style="display: inline_block"><br>
   <a href="https://github.com/jaymeborges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaymeborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymeborges&layout=compact&langs_count=7&theme=dracula"/>
