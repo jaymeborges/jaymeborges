@@ -2,7 +2,7 @@
 
 - 🔭  Hoje trabalho com front-end
 - 🌱  Estudando React
-- 📫  Contate-me  cel :13996156523
+- 📫  Contate-me  email: jayme.moia@gmail.com
 
 ##
   <div align="center">
